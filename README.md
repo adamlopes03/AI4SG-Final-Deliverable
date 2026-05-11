@@ -5,7 +5,7 @@
 # Workflow
 ##### Input → A student uploads an image of an overflowing trash can on campus. The student may also provide a short description of the location. 
 ###### Figure 1. The student uploads a photo of the overflowing trash can.
-![Alt text](path/to/image.png)
+![Alt text](https://github.com/adamlopes03/AI4SG-Final-Deliverable/blob/main/Trashimage.png?raw=true)
 ##### AI Processing → The AI analyzes the image to identify the trash issue, estimate severity, and determine urgency. It also checks whether the location can be identified from the image. If the location is unclear, the system asks the student for more details, such as the building, floor, room number, or nearby landmark. 
 ###### Figure 2. The AI analyzes the trash can image and gives an urgency rating.
 ![Alt text](https://github.com/adamlopes03/AI4SG-Final-Deliverable/blob/main/fill%20status.png?raw=true)
