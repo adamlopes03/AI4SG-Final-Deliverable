@@ -12,7 +12,7 @@
 ##### Output → The system creates a report that includes the trash issue, severity, urgency, recommended action, and whether more location detail is needed. 
 ##### Real-World Action → The report is sent to SJSU custodial or facilities staff so they can locate and empty the trash can. If the location is unclear, the report should be flagged for follow-up before staff are sent out.
 ###### Figure 3. The system creates a facilities report for staff.
-![Alt text](path/to/image.png)
+![Alt text](https://github.com/adamlopes03/AI4SG-Final-Deliverable/blob/main/ticket%20confirm.png?raw=true)
 # Failure Case
 ##### One failure that the AI experienced was that it incorrectly guessed the location of the trash can. It also hallucinated a random, inaccurate date associated with the picture.
 # Oversight and Tradeoff
