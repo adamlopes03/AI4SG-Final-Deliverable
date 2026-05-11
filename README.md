@@ -5,11 +5,14 @@
 # Workflow
 ##### Input → A student uploads an image of an overflowing trash can on campus. The student may also provide a short description of the location. 
 ###### Figure 1. The student uploads a photo of the overflowing trash can.
+![Alt text](path/to/image.png)
 ##### AI Processing → The AI analyzes the image to identify the trash issue, estimate severity, and determine urgency. It also checks whether the location can be identified from the image. If the location is unclear, the system asks the student for more details, such as the building, floor, room number, or nearby landmark. 
 ###### Figure 2. The AI analyzes the trash can image and gives an urgency rating.
+![Alt text](path/to/image.png)
 ##### Output → The system creates a report that includes the trash issue, severity, urgency, recommended action, and whether more location detail is needed. 
 ##### Real-World Action → The report is sent to SJSU custodial or facilities staff so they can locate and empty the trash can. If the location is unclear, the report should be flagged for follow-up before staff are sent out.
 ###### Figure 3. The system creates a facilities report for staff.
+![Alt text](path/to/image.png)
 # Failure Case
 ##### One failure that the AI experienced was that it incorrectly guessed the location of the trash can. It also hallucinated a random, inaccurate date associated with the picture.
 # Oversight and Tradeoff
