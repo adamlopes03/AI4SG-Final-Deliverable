@@ -16,4 +16,4 @@
 # Failure Case
 ##### One failure that the AI experienced was that it incorrectly guessed the location of the trash can. It also hallucinated a random, inaccurate date associated with the picture.
 # Oversight and Tradeoff
-##### Human review plays into the system by asking the user for clarification on the location of a trash can. It does this when the trash can’s location is not immediately obvious from the picture. The tradeoff in this functionality is that it makes the process less automated. The user experience would be more seamless if this step were foregone. 
+##### Human review plays into the system by asking the user for clarification on the location of a trash can. It does this when the trash can’s location is not immediately obvious from the picture. The one change we would make is adding a required location confirmation step before the report is submitted. The tradeoff in this functionality is that it makes the process less automated since users would now need to be more descriptive in their reports. The user experience would be more seamless if this step were foregone. 
