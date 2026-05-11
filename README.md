@@ -4,9 +4,9 @@
 ##### The AI uses both image recognition and text generation to assist the user. The image recognition is the key functionality, as it allows the user to generate a report by simply taking a picture. The text generation creates a friendly face for the user to interact with, as well as explaining what to do.
 # Workflow
 ##### Input → A student uploads an image of an overflowing trash can on campus. The student may also provide a short description of the location. 
-###### Figure 1. The student uploads a photo of the overflowing trash can.*
+###### Figure 1. The student uploads a photo of the overflowing trash can.
 ##### AI Processing → The AI analyzes the image to identify the trash issue, estimate severity, and determine urgency. It also checks whether the location can be identified from the image. If the location is unclear, the system asks the student for more details, such as the building, floor, room number, or nearby landmark. 
-###### Figure 2. The AI analyzes the trash can image and gives an urgency rating.*
+###### Figure 2. The AI analyzes the trash can image and gives an urgency rating.
 ##### Output → The system creates a report that includes the trash issue, severity, urgency, recommended action, and whether more location detail is needed. 
 ##### Real-World Action → The report is sent to SJSU custodial or facilities staff so they can locate and empty the trash can. If the location is unclear, the report should be flagged for follow-up before staff are sent out.
 ###### Figure 3. The system creates a facilities report for staff.
